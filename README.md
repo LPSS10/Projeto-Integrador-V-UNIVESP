@@ -4,19 +4,29 @@ A aplicação Web desenvolvida para a disciplina de Projeto Integrador V da UNIV
 Projeto-Integrador V
 
 Alunos:
+
 Arthur Brantes de Lima,
+
 Eliedson Marques dos Santos,
+
 Josué Olímpio da Silva Cunhado,
+
 Luís Paulo da Silva de Siqueira,
+
 Luciano Gonçalves dos Santos,
+
 Matheus Monteiro de Oliveira da Silva Cunha.
 
 Professora orientador:
+
 Paulo Victor Doná Rezende.
 
 Descrição técnica fornecida pela universidade:
 
-Tema do PIV: Desenvolver um sistema IoT com captura, análise e processamento de dados. O sistema pode ser tanto autônomo quanto ter uma interface web ou por dispositivo móvel.
+Tema do PIV: 
+Desenvolver um sistema IoT com captura, análise e processamento de dados. 
+
+O sistema pode ser tanto autônomo quanto ter uma interface web ou por dispositivo móvel.
 
 Resolução de problemas; sistemas embarcados; protocolos IoT; plataformas de ingestão e análise de dados; nuvem; processamento digital de sinais; controle de versão; testes; integração contínua.
 
