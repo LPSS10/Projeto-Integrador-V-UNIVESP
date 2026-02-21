@@ -17,7 +17,7 @@ Luciano Gonçalves dos Santos,
 
 Matheus Monteiro de Oliveira da Silva Cunha.
 
-Professora orientador:
+Professor orientador:
 
 Paulo Victor Doná Rezende.
 
