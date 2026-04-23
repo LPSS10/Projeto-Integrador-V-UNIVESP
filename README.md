@@ -9,7 +9,7 @@ Arthur Brantes de Lima,
 
 Eliedson Marques dos Santos,
 
-Josué Olímpio da Silva Cunhado,
+Josué Olímpio da Silva,
 
 Luís Paulo da Silva de Siqueira,
 
